@@ -23,30 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0532a459-a7d1-4443-94d6-065802ff38e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__co_paralleluniverse_quasar_core_0_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_4_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_javakaffee_kryo_serializers_0_41.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/digisky/HelloWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/digisky/HelloWorld$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/digisky/HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/META-INF/kotlintest.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/digisky/HelloTestKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/digisky/Person.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/digisky/HelloKt.class" afterPath="$PROJECT_DIR$/target/classes/com/digisky/HelloKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/digisky/HelloTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/digisky/HelloTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/digisky/Collection.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/kotlintest.kotlin_module" afterPath="$PROJECT_DIR$/target/classes/META-INF/kotlintest.kotlin_module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlintest.iml" afterPath="$PROJECT_DIR$/kotlintest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/com/digisky/Hello.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/digisky/Hello.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt" afterPath="$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,7 +51,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hello.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hello.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/Hello.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -82,149 +61,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloTest.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt">
+      <file leaf-file-name="Collection.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/Collection.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
+      <file leaf-file-name="Collections.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.2-5/kotlin-stdlib-1.1.2-5-sources.jar!/kotlin/collections/Collections.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="761">
-              <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="307">
+              <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
               <folding>
-                <element signature="e#0#2044#0" expanded="false" />
+                <element signature="n#!!doc" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fiber.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/co/paralleluniverse/quasar-core/0.7.8/quasar-core-0.7.8-sources.jar!/co/paralleluniverse/fibers/Fiber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14436">
-              <caret line="1121" column="26" lean-forward="false" selection-start-line="1121" selection-start-column="26" selection-end-line="1121" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#87866#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#6931#6932#0" expanded="false" />
-                <element signature="e#6977#6978#0" expanded="false" />
-                <element signature="e#13319#13320#0" expanded="false" />
-                <element signature="e#13385#13386#0" expanded="false" />
-                <element signature="e#13440#13441#0" expanded="false" />
-                <element signature="e#13469#13470#0" expanded="false" />
-                <element signature="e#13518#13519#0" expanded="false" />
-                <element signature="e#13570#13571#0" expanded="false" />
-                <element signature="e#13631#13632#0" expanded="false" />
-                <element signature="e#13665#13666#0" expanded="false" />
-                <element signature="e#15140#15141#0" expanded="false" />
-                <element signature="e#15171#15172#0" expanded="false" />
-                <element signature="e#15212#15213#0" expanded="false" />
-                <element signature="e#15238#15239#0" expanded="false" />
-                <element signature="e#15269#15270#0" expanded="false" />
-                <element signature="e#15296#15297#0" expanded="false" />
-                <element signature="e#15340#15341#0" expanded="false" />
-                <element signature="e#15372#15373#0" expanded="false" />
-                <element signature="e#15393#15394#0" expanded="false" />
-                <element signature="e#15419#15420#0" expanded="false" />
-                <element signature="e#15815#15816#0" expanded="false" />
-                <element signature="e#15846#15847#0" expanded="false" />
-                <element signature="e#17097#17098#0" expanded="false" />
-                <element signature="e#17146#17147#0" expanded="false" />
-                <element signature="e#18932#18933#0" expanded="false" />
-                <element signature="e#18981#18982#0" expanded="false" />
-                <element signature="e#20074#20075#0" expanded="false" />
-                <element signature="e#20143#20144#0" expanded="false" />
-                <element signature="e#20587#20588#0" expanded="false" />
-                <element signature="e#20656#20657#0" expanded="false" />
-                <element signature="e#21198#21199#0" expanded="false" />
-                <element signature="e#21236#21237#0" expanded="false" />
-                <element signature="e#21725#21726#0" expanded="false" />
-                <element signature="e#21763#21764#0" expanded="false" />
-                <element signature="e#23072#23073#0" expanded="false" />
-                <element signature="e#23110#23111#0" expanded="false" />
-                <element signature="e#23655#23656#0" expanded="false" />
-                <element signature="e#23693#23694#0" expanded="false" />
-                <element signature="e#24253#24254#0" expanded="false" />
-                <element signature="e#24318#24319#0" expanded="false" />
-                <element signature="e#24856#24857#0" expanded="false" />
-                <element signature="e#24914#24915#0" expanded="false" />
-                <element signature="e#25403#25404#0" expanded="false" />
-                <element signature="e#25461#25462#0" expanded="false" />
-                <element signature="e#26319#26320#0" expanded="false" />
-                <element signature="e#26359#26360#0" expanded="false" />
-                <element signature="e#27004#27005#0" expanded="false" />
-                <element signature="e#27031#27032#0" expanded="false" />
-                <element signature="e#27088#27089#0" expanded="false" />
-                <element signature="e#27115#27116#0" expanded="false" />
-                <element signature="e#40959#40960#0" expanded="false" />
-                <element signature="e#41022#41023#0" expanded="false" />
-                <element signature="e#41174#41175#0" expanded="false" />
-                <element signature="e#41238#41239#0" expanded="false" />
-                <element signature="e#44768#44769#0" expanded="false" />
-                <element signature="e#44810#44811#0" expanded="false" />
-                <element signature="e#44857#44858#0" expanded="false" />
-                <element signature="e#44970#44971#0" expanded="false" />
-                <element signature="e#48692#48693#0" expanded="false" />
-                <element signature="e#48726#48727#0" expanded="false" />
-                <element signature="e#48944#48945#0" expanded="false" />
-                <element signature="e#49007#49008#0" expanded="false" />
-                <element signature="e#49058#49059#0" expanded="false" />
-                <element signature="e#49086#49087#0" expanded="false" />
-                <element signature="e#49143#49144#0" expanded="false" />
-                <element signature="e#49191#49192#0" expanded="false" />
-                <element signature="e#49245#49246#0" expanded="false" />
-                <element signature="e#49285#49286#0" expanded="false" />
-                <element signature="e#52564#52565#0" expanded="false" />
-                <element signature="e#52605#52606#0" expanded="false" />
-                <element signature="e#52654#52655#0" expanded="false" />
-                <element signature="e#52703#52704#0" expanded="false" />
-                <element signature="e#54746#54747#0" expanded="false" />
-                <element signature="e#54783#54784#0" expanded="false" />
-                <element signature="e#55092#55093#0" expanded="false" />
-                <element signature="e#55137#55138#0" expanded="false" />
-                <element signature="e#56953#56954#0" expanded="false" />
-                <element signature="e#57003#57004#0" expanded="false" />
-                <element signature="e#57216#57217#0" expanded="false" />
-                <element signature="e#57263#57264#0" expanded="false" />
-                <element signature="e#58272#58273#0" expanded="false" />
-                <element signature="e#58308#58309#0" expanded="false" />
-                <element signature="e#58348#58349#0" expanded="false" />
-                <element signature="e#58390#58391#0" expanded="false" />
-                <element signature="e#58423#58424#0" expanded="false" />
-                <element signature="e#58459#58460#0" expanded="false" />
-                <element signature="e#63757#63758#0" expanded="false" />
-                <element signature="e#63785#63786#0" expanded="false" />
-                <element signature="e#64237#64238#0" expanded="false" />
-                <element signature="e#64290#64291#0" expanded="false" />
-                <element signature="e#65222#65223#0" expanded="false" />
-                <element signature="e#65292#65293#0" expanded="false" />
-                <element signature="e#65366#65367#0" expanded="false" />
-                <element signature="e#65420#65421#0" expanded="false" />
-                <element signature="e#72844#72845#0" expanded="false" />
-                <element signature="e#72909#72910#0" expanded="false" />
-                <element signature="n#!!doc;n#isRecordingLevel#0;n#Fiber#0" expanded="false" />
-                <element signature="e#82121#82122#0" expanded="false" />
-                <element signature="e#82168#82169#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -235,6 +89,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -261,6 +116,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/digisky/Hello.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/digisky/Collection.kt" />
       </list>
     </option>
   </component>
@@ -286,10 +142,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="984" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -400,33 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.digisky.HelloKt">
-    <configuration default="false" name="FiberRunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.digisky.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="kotlintest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.digisky" />
-      <option name="MAIN_CLASS_NAME" value="com.digisky.FiberRunTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea -javaagent:E:\kotlin_code\kotlintest\target\lib\quasar-core-0.7.8.jar" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.com.digisky.CollectionKt">
     <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -489,6 +318,19 @@
     <configuration default="false" name="com.digisky.HelloTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.digisky.HelloTestKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlintest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.digisky.CollectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.digisky.CollectionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -909,19 +751,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FiberRunTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloKt" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HelloTest" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloTestKt" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloKt" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HelloTest" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloTestKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.digisky.CollectionKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloKt" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HelloTest" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloTestKt" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FiberRunTest" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.digisky.CollectionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloKt" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HelloTest" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.com.digisky.HelloTestKt" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -941,7 +783,7 @@
       <workItem from="1497607486265" duration="950000" />
       <workItem from="1498029280189" duration="1344000" />
       <workItem from="1498032252187" duration="149000" />
-      <workItem from="1499740808896" duration="596000" />
+      <workItem from="1499740808896" duration="1111000" />
     </task>
     <servers />
   </component>
@@ -978,7 +820,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30606000" />
+    <option name="totallyTimeSpent" value="31121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -990,14 +832,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="984" y="0" width="943" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32365146" sideWeight="0.5022051" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10915105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10915105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1012,10 +854,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3211679" sideWeight="0.49779493" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32421052" sideWeight="0.49779493" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6392075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23153253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47565117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1070,25 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="12" lean-forward="false" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.2-5/kotlin-stdlib-1.1.2-5-sources.jar!/kotlin/String.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1380,123 +1203,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/FiberRun.java" />
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/digisky/FiberRunTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/co/paralleluniverse/quasar-core/0.7.8/quasar-core-0.7.8-sources.jar!/co/paralleluniverse/fibers/Fiber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14436">
+        <state relative-caret-position="557">
           <caret line="1121" column="26" lean-forward="false" selection-start-line="1121" selection-start-column="26" selection-end-line="1121" selection-end-column="26" />
           <folding>
-            <element signature="e#0#87866#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6931#6932#0" expanded="false" />
-            <element signature="e#6977#6978#0" expanded="false" />
-            <element signature="e#13319#13320#0" expanded="false" />
-            <element signature="e#13385#13386#0" expanded="false" />
-            <element signature="e#13440#13441#0" expanded="false" />
-            <element signature="e#13469#13470#0" expanded="false" />
-            <element signature="e#13518#13519#0" expanded="false" />
-            <element signature="e#13570#13571#0" expanded="false" />
-            <element signature="e#13631#13632#0" expanded="false" />
-            <element signature="e#13665#13666#0" expanded="false" />
-            <element signature="e#15140#15141#0" expanded="false" />
-            <element signature="e#15171#15172#0" expanded="false" />
-            <element signature="e#15212#15213#0" expanded="false" />
-            <element signature="e#15238#15239#0" expanded="false" />
-            <element signature="e#15269#15270#0" expanded="false" />
-            <element signature="e#15296#15297#0" expanded="false" />
-            <element signature="e#15340#15341#0" expanded="false" />
-            <element signature="e#15372#15373#0" expanded="false" />
-            <element signature="e#15393#15394#0" expanded="false" />
-            <element signature="e#15419#15420#0" expanded="false" />
-            <element signature="e#15815#15816#0" expanded="false" />
-            <element signature="e#15846#15847#0" expanded="false" />
-            <element signature="e#17097#17098#0" expanded="false" />
-            <element signature="e#17146#17147#0" expanded="false" />
-            <element signature="e#18932#18933#0" expanded="false" />
-            <element signature="e#18981#18982#0" expanded="false" />
-            <element signature="e#20074#20075#0" expanded="false" />
-            <element signature="e#20143#20144#0" expanded="false" />
-            <element signature="e#20587#20588#0" expanded="false" />
-            <element signature="e#20656#20657#0" expanded="false" />
-            <element signature="e#21198#21199#0" expanded="false" />
-            <element signature="e#21236#21237#0" expanded="false" />
-            <element signature="e#21725#21726#0" expanded="false" />
-            <element signature="e#21763#21764#0" expanded="false" />
-            <element signature="e#23072#23073#0" expanded="false" />
-            <element signature="e#23110#23111#0" expanded="false" />
-            <element signature="e#23655#23656#0" expanded="false" />
-            <element signature="e#23693#23694#0" expanded="false" />
-            <element signature="e#24253#24254#0" expanded="false" />
-            <element signature="e#24318#24319#0" expanded="false" />
-            <element signature="e#24856#24857#0" expanded="false" />
-            <element signature="e#24914#24915#0" expanded="false" />
-            <element signature="e#25403#25404#0" expanded="false" />
-            <element signature="e#25461#25462#0" expanded="false" />
-            <element signature="e#26319#26320#0" expanded="false" />
-            <element signature="e#26359#26360#0" expanded="false" />
-            <element signature="e#27004#27005#0" expanded="false" />
-            <element signature="e#27031#27032#0" expanded="false" />
-            <element signature="e#27088#27089#0" expanded="false" />
-            <element signature="e#27115#27116#0" expanded="false" />
-            <element signature="e#40959#40960#0" expanded="false" />
-            <element signature="e#41022#41023#0" expanded="false" />
-            <element signature="e#41174#41175#0" expanded="false" />
-            <element signature="e#41238#41239#0" expanded="false" />
-            <element signature="e#44768#44769#0" expanded="false" />
-            <element signature="e#44810#44811#0" expanded="false" />
-            <element signature="e#44857#44858#0" expanded="false" />
-            <element signature="e#44970#44971#0" expanded="false" />
-            <element signature="e#48692#48693#0" expanded="false" />
-            <element signature="e#48726#48727#0" expanded="false" />
-            <element signature="e#48944#48945#0" expanded="false" />
-            <element signature="e#49007#49008#0" expanded="false" />
-            <element signature="e#49058#49059#0" expanded="false" />
-            <element signature="e#49086#49087#0" expanded="false" />
-            <element signature="e#49143#49144#0" expanded="false" />
-            <element signature="e#49191#49192#0" expanded="false" />
-            <element signature="e#49245#49246#0" expanded="false" />
-            <element signature="e#49285#49286#0" expanded="false" />
-            <element signature="e#52564#52565#0" expanded="false" />
-            <element signature="e#52605#52606#0" expanded="false" />
-            <element signature="e#52654#52655#0" expanded="false" />
-            <element signature="e#52703#52704#0" expanded="false" />
-            <element signature="e#54746#54747#0" expanded="false" />
-            <element signature="e#54783#54784#0" expanded="false" />
-            <element signature="e#55092#55093#0" expanded="false" />
-            <element signature="e#55137#55138#0" expanded="false" />
-            <element signature="e#56953#56954#0" expanded="false" />
-            <element signature="e#57003#57004#0" expanded="false" />
-            <element signature="e#57216#57217#0" expanded="false" />
-            <element signature="e#57263#57264#0" expanded="false" />
-            <element signature="e#58272#58273#0" expanded="false" />
-            <element signature="e#58308#58309#0" expanded="false" />
-            <element signature="e#58348#58349#0" expanded="false" />
-            <element signature="e#58390#58391#0" expanded="false" />
-            <element signature="e#58423#58424#0" expanded="false" />
-            <element signature="e#58459#58460#0" expanded="false" />
-            <element signature="e#63757#63758#0" expanded="false" />
-            <element signature="e#63785#63786#0" expanded="false" />
-            <element signature="e#64237#64238#0" expanded="false" />
-            <element signature="e#64290#64291#0" expanded="false" />
-            <element signature="e#65222#65223#0" expanded="false" />
-            <element signature="e#65292#65293#0" expanded="false" />
-            <element signature="e#65366#65367#0" expanded="false" />
-            <element signature="e#65420#65421#0" expanded="false" />
-            <element signature="e#72844#72845#0" expanded="false" />
-            <element signature="e#72909#72910#0" expanded="false" />
-            <element signature="n#!!doc;n#isRecordingLevel#0;n#Fiber#0" expanded="false" />
-            <element signature="e#82121#82122#0" expanded="false" />
-            <element signature="e#82168#82169#0" expanded="false" />
+            <element signature="e#15853#15913#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#2044#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="792">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1511,18 +1240,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/digisky/HelloTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1531,6 +1252,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.2-5/kotlin-stdlib-1.1.2-5-sources.jar!/kotlin/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/digisky/Collection.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
