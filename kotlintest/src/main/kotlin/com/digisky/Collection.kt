@@ -9,7 +9,7 @@ fun main1(args: Array<String>) {
     }
 }
 
-fun main(args: Array<String>) {
+fun main2(args: Array<String>) {
     val items = setOf("apple", "banana", "kiwi")
 
     items.filter { it.startsWith("a") }
@@ -21,4 +21,23 @@ fun main(args: Array<String>) {
     jedis.set("kotlin", "hello")
     println("get redis value ${jedis.get("kotlin")}")
     jedis.del("kotlin")
+}
+
+fun main(args: Array<String>) {
+    val list = listOf(1, 2, 3)
+    println(list)
+
+    val map = mapOf("a" to 1, "b" to 2, "c" to 3)
+    map.plus("s" to 1)
+    println(map)
+    println(transform("Red"))
+}
+
+fun transform(color: String): Int {
+    return when (color) {
+        "Red" -> 0
+        "Green" -> 1
+        "Blue" -> 2
+        else -> throw IllegalArgumentException("Invalid color param value")
+    }
 }
